@@ -4,9 +4,9 @@
     <ThingDef ParentName="PlantBase">
         <defName>RG-B_Plant_Volopus</defName>
         <label>cultivated volopus</label>
-        <description>placeholder</description>
+        <description>A small brown mushroom with holes growing in clusters. It grows exclusively in cold bogs.</description>
         <graphicData>
-            <texPath>Things/Plant/Potokus</texPath>
+            <texPath>Things/Plant/Volopus</texPath>
             <graphicClass>Graphic_Random</graphicClass>
         </graphicData>
         <statBases>
