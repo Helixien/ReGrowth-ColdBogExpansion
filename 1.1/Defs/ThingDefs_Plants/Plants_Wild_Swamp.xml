@@ -4,7 +4,7 @@
     <ThingDef ParentName="PlantBase">
         <defName>RG-CB_Dervish</defName>
         <label>dervish</label>
-        <description>A beautiful bluish flower growing in colder biomes. Can only be found in cold bogs.</description>
+        <description>A beautiful bluish flower growing in colder and wet biomes. Can only be found in cold bogs.</description>
         <graphicData>
             <texPath>Things/Plant/Dervish</texPath>
             <graphicClass>Graphic_Random</graphicClass>
@@ -38,7 +38,7 @@
     <ThingDef ParentName="TreeBase">
         <defName>RG-CB_Plant_BogTreePine</defName>
         <label>pine tree</label>
-        <description>A tall conifer with blank spots. It grows only in cold bogs.</description>
+        <description>A tall conifer with blank spots and died branches. It grows only in cold bogs.</description>
         <graphicData>
             <texPath>Things/Plant/BogTreePine</texPath>
             <graphicClass>Graphic_Random</graphicClass>
