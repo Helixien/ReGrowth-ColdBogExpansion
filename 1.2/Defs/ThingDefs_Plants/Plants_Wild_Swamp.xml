@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
     <ThingDef ParentName="PlantBase">
-        <defName>RG-CB_Dervish</defName>
+        <defName>RG-CBE_Dervish</defName>
         <label>dervish</label>
         <description>A beautiful bluish flower growing in colder and wet biomes. Can only be found in cold bogs.</description>
         <graphicData>
@@ -36,7 +36,7 @@
     </ThingDef>
 
     <ThingDef ParentName="TreeBase">
-        <defName>RG-CB_Plant_BogTreePine</defName>
+        <defName>RG-CBE_Plant_SpruceTreePine</defName>
         <label>pine tree</label>
         <description>A tall conifer with blank spots and died branches. It grows only in cold bogs.</description>
         <graphicData>
@@ -57,6 +57,36 @@
             <visualSizeRange>1.3~2.5</visualSizeRange>
             <harvestWork>750</harvestWork>
             <harvestYield>10</harvestYield>
+        </plant>
+    </ThingDef>
+
+    <ThingDef ParentName="DeciduousTreeBase">
+        <defName>RG-CBE_Plant_KarimTree</defName>
+        <label>karim tree</label>
+        <description>ph</description>
+        <graphicData>
+            <texPath>Things/Plant/KarimTree</texPath>
+            <graphicClass>Graphic_Random</graphicClass>
+            <shadowData>
+                <volume>(0.24, 0.4, 0.13)</volume>
+                <offset>(-0.03,0,-0.44)</offset>
+            </shadowData>
+            <shaderParameters>
+                <_FallColorSource>(0.373, 0.427, 0.313)</_FallColorSource>
+                <_FallTransitionRange>(0.02, 0.14)</_FallTransitionRange>
+            </shaderParameters>
+        </graphicData>
+        <statBases>
+            <Beauty>1</Beauty>
+        </statBases>
+        <plant>
+            <growDays>35</growDays>
+            <leaflessGraphicPath>Things/Plant/KarimTree_Leafless</leaflessGraphicPath>
+            <harvestWork>1800</harvestWork>
+            <harvestYield>60</harvestYield>
+            <wildClusterRadius>17</wildClusterRadius>
+            <wildClusterWeight>25</wildClusterWeight>
+            <visualSizeRange>1.5~2.3</visualSizeRange>
         </plant>
     </ThingDef>
 
