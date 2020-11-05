@@ -37,7 +37,7 @@
     <ThingDef ParentName="PlantBase">
         <defName>RG-CBE_SwampPod</defName>
         <label>swamp pod</label>
-        <description>A small brown mushroom with holes growing in clusters. It grows exclusively in cold bogs.</description>
+        <description>A small mushroom like plant that looks similar to an eye. It can only be found in cold bogs.</description>
         <graphicData>
             <texPath>Things/Plant/SwampPod</texPath>
             <graphicClass>Graphic_Random</graphicClass>
@@ -83,13 +83,13 @@
         <ingestible />
         <plant>
             <fertilitySensitivity>0.7</fertilitySensitivity>
-            <growDays>4</growDays>
-            <harvestWork>60</harvestWork>
+            <growDays>5</growDays>
+            <harvestWork>85</harvestWork>
             <maxMeshCount>9</maxMeshCount>
-            <visualSizeRange>0.90~1.10</visualSizeRange>
-            <topWindExposure>0.4</topWindExposure>
-            <wildClusterRadius>4</wildClusterRadius>
-            <wildClusterWeight>10</wildClusterWeight>
+            <visualSizeRange>0.7~0.90</visualSizeRange>
+            <topWindExposure>0.5</topWindExposure>
+            <wildClusterRadius>8</wildClusterRadius>
+            <wildClusterWeight>5</wildClusterWeight>
             <wildOrder>1</wildOrder>
         </plant>
     </ThingDef>

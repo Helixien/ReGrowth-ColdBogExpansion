@@ -13,10 +13,10 @@
 					<value>
 						<RG-CBE_Plant_ReedGrass>3.0</RG-CBE_Plant_ReedGrass>
 						<RG-CBE_Dervish>0.5</RG-CBE_Dervish>
-						<RG-CBE_Plant_SpruceTreePine>0.6</RG-CBE_Plant_BogTreePine>
+						<RG-CBE_Plant_SpruceTreePine>0.6</RG-CBE_Plant_SpruceTreePine>
 						<RG-CBE_Plant_KarimTree>0.6</RG-CBE_Plant_KarimTree>
-						<RG-CBE_Volopus>0.2</RG-CBE_Volopus>
-						<RG-CBE_SwampPod>0.2</RG-CBE_SwampPod>
+						<RG-CBE_Volopus>0.05</RG-CBE_Volopus>
+						<RG-CBE_SwampPod>0.15</RG-CBE_SwampPod>
 					</value>
 				</li>
             </operations>
