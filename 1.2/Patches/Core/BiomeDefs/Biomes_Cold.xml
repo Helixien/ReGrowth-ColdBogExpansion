@@ -11,12 +11,12 @@
 				<li Class="PatchOperationAdd">
 					<xpath>/Defs/BiomeDef[defName = "ColdBog"]/wildPlants</xpath>
 					<value>
-						<RG-CBE_Plant_ReedGrass>3.0</RG-CBE_Plant_ReedGrass>
-						<RG-CBE_Dervish>0.5</RG-CBE_Dervish>
-						<RG-CBE_Plant_SpruceTreePine>0.6</RG-CBE_Plant_SpruceTreePine>
-						<RG-CBE_Plant_KarimTree>0.6</RG-CBE_Plant_KarimTree>
-						<RG-CBE_Volopus>0.05</RG-CBE_Volopus>
-						<RG-CBE_SwampPod>0.15</RG-CBE_SwampPod>
+						<RG-CB_Plant_ReedGrass>3.0</RG-CB_Plant_ReedGrass>
+						<RG-CB_Dervish>0.5</RG-CB_Dervish>
+						<RG-CB_Plant_SpruceTreePine>0.6</RG-CB_Plant_SpruceTreePine>
+						<RG-CB_Plant_KarimTree>0.6</RG-CB_Plant_KarimTree>
+						<RG-CB_Volopus>0.05</RG-CB_Volopus>
+						<RG-CB_SwampPod>0.15</RG-CB_SwampPod>
 					</value>
 				</li>
             </operations>
