@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RG-CB_Dervish.label>더비시</RG-CB_Dervish.label>
+  <RG-CB_Dervish.description>춥고 습한 기후에서 자라는 아름답고 푸르스름한 꽃입니다. 한대습지에서만 찾아볼 수 있습니다.</RG-CB_Dervish.description>
+
+  <RG-CB_Plant_SpruceTreePine.label>스프루스 소나무</RG-CB_Plant_SpruceTreePine.label>
+  <RG-CB_Plant_SpruceTreePine.description>듬성듬성하고 죽은 가지가 달린 길쭉한 침엽수입니다. 한대습지에서만 자랍니다.</RG-CB_Plant_SpruceTreePine.description>
+
+  <RG-CB_Plant_KarimTree.label>카림 나무</RG-CB_Plant_KarimTree.label>
+  <RG-CB_Plant_KarimTree.description>한대습지에서 자라는 큰 나무입니다.</RG-CB_Plant_KarimTree.description>
+
+  <RG-CB_Volopus.label>볼로푸스</RG-CB_Volopus.label>
+  <RG-CB_Volopus.description>무리지어 자라는 구멍이 뚫린 작은 갈색 버섯입니다. 한대습지에서만 자랍니다.</RG-CB_Volopus.description>
+
+  <RG-CB_SwampPod.label>늪지 꼬투리</RG-CB_SwampPod.label>
+  <RG-CB_SwampPod.description>눈알과 비슷하게 보이는 작은 버섯 비슷한 식물입니다. 한대습지에서만 자랍니다.</RG-CB_SwampPod.description>
+
+  <RG-CB_Plant_ReedGrass.label>갈대</RG-CB_Plant_ReedGrass.label>
+  <RG-CB_Plant_ReedGrass.description>야생 갈대입니다. 위로 지나다니는 사람을 느리게 하지만, 바람 불 때 아름다워 보입니다.</RG-CB_Plant_ReedGrass.description>
+
+
+</LanguageData>
